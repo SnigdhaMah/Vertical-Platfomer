@@ -1,1 +1,2 @@
 # Vertical-Platfomer
+I created a vertical platformer game, currently with one level, in my junior year of high school as my final project in my Advanced Programming Topics class. It was created with C# in Unity and features strong game mechanics, customizable teleportation, and time-based enemies. The project took six months to complete and provided the opportunity for professional level experience in learning, creating and debugging my code.
